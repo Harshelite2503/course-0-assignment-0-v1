@@ -3,5 +3,7 @@
 using namespace std;
 
 int main() {
-  // Write code here.
+  cout << "Harsh";
+  cout << "Hot";
+  cout << " Smart";
 }
