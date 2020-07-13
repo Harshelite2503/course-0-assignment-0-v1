@@ -3,5 +3,5 @@
 using namespace std;
 
 int main() {
-  cout << "Harsh" << "Smart" << " Intelligent";
+  cout << "My name is Harsh." << "I live in India." << "I study in BITS.";
 }

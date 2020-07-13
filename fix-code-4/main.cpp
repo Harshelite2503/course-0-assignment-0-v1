@@ -3,5 +3,5 @@
 using namespace std;
 
 int main() {
-  cout << "My GitHub username is Harshelite2503!";
+  cout << "My GitHub username is Harshelite2503!.";
 }

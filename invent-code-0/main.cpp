@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() {
-  cout << "Harsh";
-  cout << "Hot";
-  cout << " Smart";
+  cout << " My name is Harsh." << endl;
+  cout << " I live in India." << endl;
+  cout << " I study in BITS." << endl;
 }
